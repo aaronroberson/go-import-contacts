@@ -13,8 +13,9 @@
 * https://stackoverflow.com/questions/13514184/how-can-i-read-a-whole-file-into-a-string-variable-in-golang
 * https://stackoverflow.com/questions/17071286/how-can-i-open-files-using-relative-paths-in-go
 
-## Tutorials
+## Tutorials and Third-party Documentation
 * [Build Web Application With Golang: PostgreSQL](https://astaxie.gitbooks.io/build-web-application-with-golang/content/en/05.4.html)
+* [Channels](https://gobyexample.com/channels)
 
 ## Tools
 * [Gogland](https://www.jetbrains.com/go/) - Golang IDE
